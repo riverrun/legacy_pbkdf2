@@ -1,4 +1,4 @@
 %{
-  "comeonin": {:hex, :comeonin, "5.0.0", "e87716d3b1c31e56312f6a1545a5548cdc80376cff5025fe3b12be2046934837", [:mix], [], "hexpm"},
+  "comeonin": {:hex, :comeonin, "5.1.0", "dc7dc04cc2fd12ffee16ddf3f91e876ee1a686447be403baf6f89da38e215365", [:mix], [], "hexpm"},
   "plug_crypto": {:hex, :plug_crypto, "1.0.0", "18e49317d3fa343f24620ed22795ec29d4a5e602d52d1513ccea0b07d8ea7d4d", [:mix], [], "hexpm"},
 }

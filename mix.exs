@@ -19,7 +19,7 @@ defmodule LegacyPbkdf2.MixProject do
 
   defp deps do
     [
-      {:comeonin, "~> 5.0"},
+      {:comeonin, "~> 5.1"},
       {:plug_crypto, "~> 1.0"}
     ]
   end
